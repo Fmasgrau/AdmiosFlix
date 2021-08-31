@@ -1,0 +1,9 @@
+.navbar {
+  grid-template-columns: 50% 50%;
+  align-items: center;
+}
+
+.navbar ul {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
