@@ -93,8 +93,6 @@ footer {
     .navbar_display_options--display {
       padding: 0;
       margin: 0;
-      height: 150px;
-      background: #f0f0f0;
       transition: all 0.1s ease-in-out;
 
       div {
@@ -102,6 +100,7 @@ footer {
         height: 50px;
         display: flex;
         align-items: center;
+        background: #f0f0f0;
         &:hover {
           background: gray;
         }

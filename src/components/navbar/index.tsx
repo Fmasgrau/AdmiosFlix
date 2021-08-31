@@ -3,7 +3,7 @@ import React from "react";
 import "./index.scss";
 // import burgerButton from "../../assets/burger.svg";
 // import cancelButton from "../../assets/cross.svg";
-import Admios from "../../assets/admios.svg";
+import Admios from "../../assets/admiosflix.svg";
 
 interface INavbarProps {
   menuOpen?: boolean;
